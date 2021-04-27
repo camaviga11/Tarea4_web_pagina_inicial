@@ -1,0 +1,63 @@
+* {
+    border: 2px solid rgb(122, 117, 117); 
+}
+h1 {
+    color: #007F7F;
+}
+#subtitulo {
+    color: blue;
+}
+p strong{
+    color: red;
+}
+span.especial{
+    color: purple;
+}
+
+a{
+    color: red;
+}
+a em{
+    color: blue;
+}
+div a{
+    color: green;
+}
+
+div p{
+    color: rgb(125, 172, 32);
+}
+#especial{
+    color: blueviolet;
+}
+
+table caption{
+    color: blue;
+}
+
+table .especial, table strong{
+    color: #e9bf03;
+}
+
+table tfoot,table tbody th{
+    color: red;
+}
+
+table tbody td {
+    color: green;
+}
+
+h1,h2,p{
+    margin-top: 6px;
+    margin-bottom: 6px;
+    margin-left: 8px;
+    width: 65%;
+    padding: 10px;
+}
+table{
+    border-collapse: collapse;
+}
+table th{
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
